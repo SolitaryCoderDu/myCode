@@ -1,0 +1,2 @@
+# myCode
+practice of code
